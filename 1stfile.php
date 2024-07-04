@@ -11,5 +11,5 @@ if($i=="1")
 	{
 	echo "i = 2 : ".$i ."\r\n";
 	}
-echo "add enw line";
+echo "add enw line :))";
 ?>
